@@ -4,5 +4,5 @@ langchain-core
 langchain-openai
 langchain-community
 openai
-gtta
+gtts
 python-dotenv
